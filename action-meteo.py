@@ -4,7 +4,7 @@
 from __future__ import unicode_literals
 import ConfigParser
 from hermes_python.hermes import Hermes
-from hermes_python.ontology.dialogue import *
+from hermes_python.ontology.slot import *
 import io
 
 import datetime
